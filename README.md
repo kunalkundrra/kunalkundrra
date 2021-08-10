@@ -7,6 +7,6 @@
 <ul>
   <li> 🔭 I’m currently working on ML at virtual machines. </li>
   <li>🌱 I’m currently learning React and Vue. </li>
-  <li> 👯 I’m looking to collaborate on Open-Source-Projects based on AI, anyway. </li>
+  <li> 👯 I’m looking to collaborate with other developers. </li>
   <li> 📫 How to reach me: koups@bk.ru </li>
 </ul>
