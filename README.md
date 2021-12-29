@@ -4,6 +4,11 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalkundrra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_iwlmrnb5.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+
+<br>
+
 
 <ul>
   <li> 🔭 I’m currently working on ML at virtual machines. </li>
