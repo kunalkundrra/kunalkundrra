@@ -2,8 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalkundrra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
+ <img src="89033-star-in-hand-baby-astronaut.gif" height="177" width="177"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalkundrra&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
 <br>
 
