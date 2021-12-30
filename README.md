@@ -39,3 +39,8 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> <img src="https://img.icons8.com/external-prettycons-lineal-prettycons/49/000000/external-code-terminal-web-seo-prettycons-lineal-prettycons.png"/> <img src="https://img.icons8.com/color/48/000000/webstorm.png"/> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/65/000000/external-atom-high-school-flatarticons-blue-flatarticons.png"/> <img src="https://img.icons8.com/color/48/000000/slack.png"/> <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 
 <hr>
+
+### Listening 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/5FmmxErJczcrEwIFGIviYo)
+<br/>
