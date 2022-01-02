@@ -42,6 +42,6 @@
 
 ### Listening 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/5FmmxErJczcrEwIFGIviYo)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF)
 <br/>
 
