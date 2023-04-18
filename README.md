@@ -1,5 +1,4 @@
 ### Hi there, I'm <a href="https://github.com/kunalkundrra">Kunal Kundra!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <br>
 <br>
